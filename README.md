@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Satyam Kumar (@satyamkr571)
-- 👀 I’m interested in ...
+- 👀 I’m interested in App Development.
 - 🌱 I’m currently learning MERN STACK WITH AZURE CLOUD
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @9937132749
